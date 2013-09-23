@@ -21,6 +21,6 @@ if don't exists, create the following folders:
 Copy the files in respecting directories:
 
 	~/.vim/syntax/flux.vim
-	~/.vim/syntax/flux.vim
+	~/.vim/ftdetect/flux.vim
 	
 Happy coding :)	
