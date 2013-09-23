@@ -14,11 +14,9 @@ au BufNewFile,BufRead *.flux                    setf flux
 
 if don't exists, create the following folders:
 
-  ~/.vim
- 
-  ~/.vim/syntax
- 
-  ~/.vim/ftdetect
+	~/.vim
+	~/.vim/syntax
+	~/.vim/ftdetect
 
 Copy the files in respecting directories:
 
